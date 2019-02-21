@@ -4,8 +4,6 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 
 | Example | Build status |
 |---------|--------------|
-
-| Build | [![Build Status](https://dev.azure.com/betasandbox/nodeDemo/_apis/build/status/msftsean.pipelines-javascript-1?branchName=master&jobName=Job)](https://dev.azure.com/betasandbox/nodeDemo/_build/latest?definitionId=17&branchName=master)|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=8) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=9) |
